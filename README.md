@@ -20,13 +20,18 @@ Brainstorm of features:
 
 Twitter:
   >Automated sharing of new tweets on selected chat-ops server(s)
+
   >
 
 Twitch:
   >Bookmark/Timestamping a moment in a livestream
+
   >automated posting of clips to a channel for review
+
   >automated going live notifications in selected chat-ops server(s)
+
   >Automatically add/remove custom simple string commands in livestream chat (with restrictions based on chatter role)
+
   >Chat command to search and post 7tv emote links in a channel in a selected chat-ops server for review
 
 YouTube:
