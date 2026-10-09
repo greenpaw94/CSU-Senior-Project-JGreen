@@ -4,6 +4,9 @@ Senior project for Joshua Green
 ##TODO PLAIN TEXT THE CHARTER
 # link to the google doc of the charter: [HERE](https://docs.google.com/document/d/16QagjHNi7HQvSJhXT1xc2rAE5uv8_P_5d4tiddhXOnU/edit?tab=t.0)
 
+Requirements:
+For the purposes of writing requirements, I will be using the persona: Cameron. Cameron is a content creator who wants to stay connected with their viewers and form a community where they can stay up to date on the content that Cameron creates. This will personalize the requirements as user research is conducted to generate additional requirements. The living google doc for requirements lives here: https://docs.google.com/document/d/1NPRsRxrxvrRN2Thh1l2RDGxh7GpdqBnaGD8w8fQubOw/edit?usp=sharing . However for visibility the document will be posted and updated in the repository periodically.
+
 Initial idea:
 
 The initial plan for this project is to create an interface between content creation websites and social media platforms to facilitate interaction between a creator and their audience.
